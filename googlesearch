@@ -5,3 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/narrativeimage/digitalmarketingtrends.git
 git push -u origin main
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3349_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("RELATED_QUERIES", {"comparisonItem":[{"keyword":"/g/122hcnps","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=%2Fg%2F122hcnps&date=today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
